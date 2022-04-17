@@ -1,7 +1,9 @@
 # Connected Textures RP
- A custom minecraft RP
+
+A custom minecraft RP
 
 # Credits
+
 Julienraptor01#3476 the optifine functionalities
 <br/>https://github.com/Julienraptor01/Connected-Textures-RP/
 
